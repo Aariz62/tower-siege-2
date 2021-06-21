@@ -14,6 +14,7 @@ constructor(a,b){
     World.add(world,this.sling)
 
  this.pointB
+ 
 
 
 }

@@ -61,7 +61,7 @@ createCanvas(1200,700)
 
 
 
-sling1=new Sling(polygon,{x:160,Y:384})
+sling1 =new Sling(polygon,{x:160,Y:384})
  
 
 }
